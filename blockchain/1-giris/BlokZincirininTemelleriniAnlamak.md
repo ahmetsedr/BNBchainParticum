@@ -64,27 +64,27 @@ Kısaca Blockchain birden fazla bilgisayar tarafından kontrol edilir ve otorite
 
 ### Database vs Blockchain
 
-- Data Base :
+Data Base :
 
 * merkezileştirilmiş
 * Hızlı
 * değişken
 
-- Blockchain
+ Blockchain
 
 * merkezi olmayan
 * Yavaş
 * değişmez
 
-- Pros and Cons
+ Pros and Cons
 
-* Artıları
+Artıları
 * Güvenlik
 * Transparency
 * şeffaflık
 * ademi merkeziyetçilik
 
-* Eksileri
+Eksileri
 * Performans
 * karmaşıklık
 * Kontrol
