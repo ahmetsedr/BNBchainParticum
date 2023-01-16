@@ -76,7 +76,7 @@ Data Base :
 * Yavaş
 * değişmez
 
- Pros and Cons
+ Artıları ve Eksileri
 
 Artıları
 * Güvenlik
@@ -98,3 +98,4 @@ Eksileri
 
 Genellikle İzinsiz blockchainler daha güvenlidirler ve verilerin manipüle edilme riski daha düşüktür. İzin verilen blockchainler ise daha kontrollü ve veri erişiminin sınırlandırılmasına olanak sağlar.
 
+# Öncelikle bu yaıları internette buldum sizin öneriniz varsa bu repoyu kopyalayabilir ya da değiştirme isteği oluyorsa istek atabilirsiniz iyi dersler.
