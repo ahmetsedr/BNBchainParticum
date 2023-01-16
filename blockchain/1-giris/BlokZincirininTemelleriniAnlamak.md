@@ -66,29 +66,29 @@ Kısaca Blockchain birden fazla bilgisayar tarafından kontrol edilir ve otorite
 
 - Data Base :
 
-** merkezileştirilmiş
-** Hızlı
-** değişken
+* merkezileştirilmiş
+* Hızlı
+* değişken
 
 - Blockchain
 
-** merkezi olmayan
-** Yavaş
-** değişmez
+* merkezi olmayan
+* Yavaş
+* değişmez
 
 - Pros and Cons
 
 * Artıları
-** Güvenlik
-** Transparency
-** şeffaflık
-** ademi merkeziyetçilik
+* Güvenlik
+* Transparency
+* şeffaflık
+* ademi merkeziyetçilik
 
 * Eksileri
-** Performans
-** karmaşıklık
-** Kontrol
-** İşlem hızı
+* Performans
+* karmaşıklık
+* Kontrol
+* İşlem hızı
 
 ## İzinsiz ve İzin Verilen Blockchain Türler
 
